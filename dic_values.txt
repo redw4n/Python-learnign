@@ -1,0 +1,3 @@
+spam  = {'Color': 'Red', 'Age': '42'}
+for x in spam.values():
+    print(x)
